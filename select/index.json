@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "㋰責任集合体",
+  "base_artist": "マサラダ",
+  "createdAt": "2025-12-05T18:46:23.737707Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "㋰責任集合体",
+      "artist": "マサラダ",
+      "has_synced": false,
+      "path": "select/pl_01_ム責任集合体_マサラダ.txt"
+    }
+  ]
+}
